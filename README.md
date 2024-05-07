@@ -1,7 +1,16 @@
-### Hi there 👋
+<h1>Hi, I'm Shuraiz! <a href="https://www.linkedin.com/in/shuraiz-malik-42b7a0230/">Cybersecurity Student</a>, 
+
+
+
+  
+<h2>👨‍💻 IT/cyber related Projects:</h2>
+
+- <b>Botnet detection using machine learning algorithms</b>
+  - [Botnet detection system with machine learning algorithms ](https://github.com/shuraizmalik123/shuraizmalik123/blob/main/Main_project_code.ipynb)
+  
 
 <!--
-**shuraizmalik123/shuraizmalik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
