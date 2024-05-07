@@ -1,6 +1,6 @@
-<h1>Hi, I'm Shuraiz! <a href="https://www.linkedin.com/in/shuraiz-malik-42b7a0230/">Cybersecurity Student (more project yet to come)</a>, 
+<h1>Hi, I'm Shuraiz! <a href="https://www.linkedin.com/in/shuraiz-malik-42b7a0230/">Cybersecurity Student </a>, 
 
-
+(More projects yet to come)
 
   
 <h2>👨‍💻 IT/cyber related Projects:</h2>
