@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shuraiz! <a href="https://www.linkedin.com/in/shuraiz-malik-42b7a0230/">Cybersecurity Student </a>, 
+<h1>Hi, I'm Shuraiz! <a href="https://www.linkedin.com/in/shuraiz-malik-42b7a0230/"> IT Student </a>, 
 
 (More projects yet to come)
 
